@@ -1,4 +1,4 @@
-https://github.com/SandroXC/SandroXC/blob/main/header.jpg
+![Sejam bem-vindos!](https://github.com/SandroXC/SandroXC/blob/main/header.jpg)
 
 <!--
 **SandroXC/SandroXC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
